@@ -1,3 +1,4 @@
+out.write(”aString”);
 public class OracleJdbcTest
 test.fetch();
 Properties props = new Properties();
