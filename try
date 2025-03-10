@@ -1,3 +1,4 @@
+// do the thing you do
 String password = props.getProperty("db.password");
 out.write(”aString”);
 public class OracleJdbcTest
