@@ -1,3 +1,4 @@
+PreparedStatement ps = con.prepareStatement("select SYSDATE from dual");
 Class.forName(driverClass);
 public void fetch() throws SQLException, IOException
 props.load(fs);
